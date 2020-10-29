@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giovanni</h1>
 <h3 align="center">A software developer from Texas</h3>
 
-- 🔭 I’m currently working on **trying to find a job**
+- 🔭 I’m currently working on **great stuff**
 
 - 🌱 I’m currently learning **everything**
 
